@@ -1,7 +1,7 @@
 # Random Number Generator
 
 ## <u> Installation </u>
-This program uses Mocha/Chai assertion libraries to ensure that the numbers returned (array) are of the proper number (length of array), hits every number from 1 to 10,000, and that there are no repeat numbers in the array returned. To install these depencencies, use <em> npm install </em> in the project directory.
+This program uses Mocha/Chai assertion libraries to ensure that the numbers returned (array) are of the proper number (length of array), hits every number from 1 to 10,000, and that there are no repeat numbers in the array returned. To install these depencencies, use <em> npm install </em>.
 
 ## <u> To run: </u>
 - In the Node terminal, use command node randomNumbers.js to see the array displayed.
@@ -24,4 +24,4 @@ Using Mocha/Chai assertion library testing framework, I verified that:
 - Every number in the original array (1-10,000) is contained in the randomized array.
 - The numbers in the randomized array are not duplicated.
 
-Overall, this was a fun little problem to solve, while giving the extra benefit of practicing using testing libraries to verify the function's behaviour. 
+Overall, this was a fun little problem to solve, while giving the extra benefit of practicing using testing libraries to verify the function's behaviour.

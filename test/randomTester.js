@@ -1,4 +1,5 @@
 // test file for randomNumbers.js - ensures that the huge array contains only unique numbers, and is the right length.
+// run using npm test
 
 const assert = require('chai').assert;
 const randomToTenK  = require('../randomNumbers.js');

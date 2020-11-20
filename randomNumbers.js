@@ -6,6 +6,7 @@
 // currently numbers are presented as array
 // currently array prints to console
 
+// test output by running randomTester.js, with command npm test
 
 const randomToTenK = function() {
   let i = 1;
