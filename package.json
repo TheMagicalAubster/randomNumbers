@@ -1,0 +1,20 @@
+{
+  "name": "interviewquestions",
+  "version": "1.0.0",
+  "description": "create array of random numbers from 1 to 10000",
+  "main": "randomNumbers.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Aubrey Blair-Pattison",
+  "license": "ISC"
+}
